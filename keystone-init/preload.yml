@@ -1,0 +1,14 @@
+member_role: _member_
+
+domains:
+  default:
+    projects: []
+    roles: []
+    users: []
+    groups: []
+
+services:
+  example:
+    type:
+    description:
+    endpoints: []

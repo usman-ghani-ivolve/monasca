@@ -1,0 +1,5 @@
+repository: monasca/thresh
+variants:
+  - tag: master-{date}-{time}
+    args:
+      SKIP_COMMON_TESTS: "true"
